@@ -1,6 +1,8 @@
-# ECS765PLab1 
+# ECS765PLab1
+
 Based upon grpc tutorial at https://github.com/eugenp/tutorials/tree/master/grpc
 Commands for preparing the enviornment (Assuming you are in the main folder e.g. the one with the pom.xml file in it)
+
 1. sudo apt update
 2. sudo apt install default-jdk maven
 3. mvn clean package install
