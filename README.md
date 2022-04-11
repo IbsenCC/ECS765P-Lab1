@@ -1,4 +1,4 @@
-# ECS765PLab1
+# ECS796PLab1
 
 Based upon grpc tutorial at <https://github.com/eugenp/tutorials/tree/master/grpc>
 
